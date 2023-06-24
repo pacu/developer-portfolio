@@ -14,7 +14,9 @@ I built the [iOS Zcash SDK](https://github.com/zcash/ZcashLightClientKit/) and t
 https://github.com/zcash/ZcashLightClientKit/
 
 ## Light Client FFI Layer for librustzcash
-Rust Foreign Function Interface layer for the Zcash iOS SDK. 
+`zcash-light-client-ffi` is a Rust Foreign Function Interface layer for the Zcash iOS SDK delivered 
+through an XCFramework that supports the different architectures that are supported in iOS development.
+It allows ZcashLightClientKit clients not to care about any of the Rust developments tools needed to build the "Rust Backend" of the Zcash SDK.
 https://github.com/pacu/zcash-light-client-ffi
 
 ## MnemonicSwift
