@@ -5,6 +5,33 @@ I’m Pacu. I’m a Software Developer. I have a Master’s Degree in Software E
 
 I always liked to work on stuff that people could take into their own hands. I’ve been developing software since 2008. First as a retro-porter at Gameloft where I learned to move around a myriad of code bases and game engines to fit popular games into low-end JavaME mobile phones, since then I’ve been dedicated to mobile first applications. I’m not a “grasshopper” kind of developer so, in these last 16 years of experience I’ve had 3 or 4 jobs at most. Nonetheless I’ve been able to work in Corporations, Unicorns, freelance gigs and start-ups; from publishing, to Investment Firms, Entertainment Corporations, Travel and Leisure companies and lastly decentralizing finance and fighting for the right to privacy. But always within the last mile of the software chain from the server to people’s fingertips. In my last big corp gig I worked with more than 60 developers serving millions of users in LATAM for the biggest online travel agency. I can say that I have the experience of walking into a bar and knowing that everyone there has your App on their phones.
 
+# iOS Applications
+
+## Secant iOS Wallet
+Repo: https://github.com/zcash/secant-ios-wallet
+
+Secant is a Zcash wallet built with The Composable Architecture. It's goal is to be a "production-ready" reference wallet that can showcases how wallet builders can take
+Zcash into users' hands in a maintainable, feature-rich, modular, testable and robust way.
+The project had several UI and feature scope changes that TCA could support graciously
+thanks to the separation of concern of application logic and UI logic and consistent
+one-way State management that the composable architecture brings. 
+
+## ECC Reference Wallet
+Repo: https://github.com/zcash/zcash-ios-wallet
+
+<img src="./imgs/homescreen.gif" align="top" width=200 />
+<img src="./imgs/IMG_7861.PNG" align="top" width=200 />
+<img src="./imgs/IMG_7862.PNG" align="top" width=200 />
+
+
+iOS wallet using the Zcash iOS SDK that is maintained by core developers.
+
+This a reference wallet for the following set of features:
+- z2z transactions w/ encrypted memos
+- reply-to formatted memos
+- z2t transactions
+- transparent receive-only
+- autoshielding on threshold from receive only t-address
 
 # SDKs and other tools
 
@@ -38,23 +65,6 @@ https://github.com/pacu/TinyQRScanner
 https://github.com/pacu/combine-urlsession-downloader
 
 This is a utility library that encapulates some helpers to leverage Combine and URLSession to download files from the web. 
-
-# iOS Applications
-
-## Secant iOS Wallet
-
-https://github.com/zcash/secant-ios-wallet
-## ECC Reference Wallet
-https://github.com/zcash/zcash-ios-wallet
-iOS wallet using the Zcash iOS SDK that is maintained by core developers.
-
-This a reference wallet for the following set of features:
-- z2z transactions w/ encrypted memos
-- reply-to formatted memos
-- z2t transactions
-- transparent receive-only
-- autoshielding on threshold from receive only t-address
-
 
 # Open Source Contributions
 
