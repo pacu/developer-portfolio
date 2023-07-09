@@ -1,7 +1,7 @@
 # Pacu - iOS + Blockchain developer
 
 Francisco Gindre
-contact: codebuffet+resume {at} proton {dot} me
+**contact:** codebuffet+resume {at} proton {dot} me
 
 ## Summary
 

@@ -1,6 +1,6 @@
 # Pacu - iOS + Blockchain developer
 
-contact: codebuffet+resume {at} proton {dot} me
+**contact**: codebuffet+resume {at} proton {dot} me
 
 **tl;dr links**
 - If you are looking for a structured Resumè [please find it here](./RESUME.md)
