@@ -3,6 +3,7 @@
 Francisco Gindre
 **contact:** codebuffet+resume {at} proton {dot} me
 
+Note: *if you are reading this on PDF, you can find the [updated version here](https://github.com/pacu/developer-portfolio/)*
 ## Summary
 
 I have a Master’s Degree in Software Engineering. In my more than ten years of experience in iOS development, I've worked in many projects in diverse fields and sectors: NGOs, education, mass-media, publishing, entertainment, travel and FinTechs.
