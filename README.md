@@ -6,6 +6,8 @@
 - If you are looking for a structured Resumè [please find it here](./RESUME.md)
 - You can skip the introduction and jump straight ahead to my [developer portfolio](./PORTFOLIO.md)
 
+Note: *if you are reading this on PDF, you can find the [updated version here](https://github.com/pacu/developer-portfolio/)*
+
 ## About Myself
 
 Hello! My name is Francisco and everyone calls me 'Pacu'. I’m a Software Developer and I've been working in the mobile apps industry for more than 10 years. I like building software with others,

@@ -2,7 +2,7 @@
 
 In the sections belowyou will find the applications, SDKs and tools I've been involved with.
 
-
+Note: *if you are reading this on PDF, you can find the [updated version here](https://github.com/pacu/developer-portfolio/)*
 # iOS Applications
 
 ## Secant iOS Wallet
