@@ -1,19 +1,68 @@
 # Pacu - iOS + Blockchain developer
 
 Francisco Gindre
-**contact:** codebuffet+resume {at} proton {dot} me
+
+**contact:** pacu {at} thecodebuffet {dot} dev
+
+Note: *if you are reading this on PDF, you can find the [updated version here](https://github.com/pacu/developer-portfolio/)*
 
 ## Summary
 
 I have a Master’s Degree in Software Engineering. In my more than ten years of experience in iOS development, I've worked in many projects in diverse fields and sectors: NGOs, education, mass-media, publishing, entertainment, travel and FinTechs.
 
-The last 4 years I've been developing open source crypto-wallets and tooling in the Zcash ecosystem.
+The last 5 years I've been developing open source crypto-wallets and tooling in the Zcash ecosystem.
 If you are Zcasher, I’m pretty sure that most of you might have interacted with the code I worked on.
 
-I specialize in iOS development, but I've gained a lot of experience in other areas such as Blockchain, Research, Rust development, Open Source project maintenance and ecosystem outreach.
+I specialized in iOS development, but I've gained a lot of experience in other areas such as Blockchain, Research, Rust development, Open Source project maintenance and ecosystem outreach. 
+
+As for my work ethos, I have my true passions and nit-picks as anyone does, but I'm a versatile developer as well. It has been pointed out to me that I'm good at getting to a new software codebase and making a meaningful contribution in fairly short amount of time while still adapting to the projects' conventions and styles. It's important to me to feel the vibe of teams and try to resonate with them instead of trying to just impose your views. Every bit of source code has its context and time. A good contributor knows to understand what's been done, have respect for others' work, be gentle and ask the questions that help understanding such context and time and build on top of that. Furthermore, also try to leave every file you worked on in a better shape that how one has found it.
 
 
 ## Experience
+
+### Zcash Developer Relations Engineer
+Aug 2024 - present. (Ongoing)
+
+As time went by the role as Zcash Wallet Community Developer (ZWCD) shifted to a DevRel kind of place. It 
+was not really planned that way, it happened as the ecosystem needed it. A work philosophy of mine is to
+help were its needed and not only limiting to what one is supposed to by definition of the job description.
+
+#### Key achievements
+- [ZecDev](https://www.github.com/zecdev): A GitHub organization to develop Zcash tooling in community.
+- Outreach to entities running ZEC infrastructure that depends on Zcashd
+- Architecture review and advisory for Zaino project of Zingo labs
+- Advisory and Zcash ecosystem representation for Red Bridge project at the Avalanche Summit 2024.
+- Liason between teams in Zcashd deprecation.
+- Developed FROST UniFFI wrapper and presented it to FROST Implementors community
+
+### Zcash Wallet Community Developer (ZWCD)
+Aug 2023 - July 2024 (1 year)
+
+In late May 2023, after ECC restructured, I got a call from the Zcash Foundation inviting me to organize
+a workshop at Zcon4 in Barcelona about Zcash Wallets. I realized that my work had trascended my prior 
+employment at ECC and that the cirmcumstances amerited that the Zcash Ecosystem had a liason between all 
+wallet teams that represented the community and not a specific team. That's how the Zcash Wallet Community Developer grant took shape. For a detailed and context-rich version of this please refer to [My journey as a Zcash Dev](zcash-dev-journey.md)
+#### Key Achievements as Zcash Wallet Community Developer (ZWCD)
+##### User-Facing Development
+- Developed **ZIP-321 support** libraries for **iOS** ([Swift](https://github.com/pacu/zcash-swift-payment-uri)) and **Android** ([Kotlin](https://github.com/pacu/zcash-kotlin-payment-uri)), enhancing payment request functionality.
+- Collaborated to improve the ZIP-321 specification ([discussion link](https://github.com/zcash/zips/issues/451)).
+
+##### Developer Tooling
+- Built a **FROST UniFFI SDK** for **Swift, GoLang**, and other languages ([repo](https://github.com/pacu/frost-uniffi-sdk)).
+- Created **darksidewalletd datasets** for testing, working with **Zingo Labs** ([datasets repo](https://github.com/zingolabs/darksidewalletd-datasets)).
+- Contributed to enabling **regtest support** and custom checkpoints for SDKs ([example PR](https://github.com/Electric-Coin-Company/zcash-swift-wallet-sdk/pull/1331)).
+
+#### Light Client Working Group
+- Co-organized and rejuvenated **LCWG** meetings, focusing on work initiatives such as ZIP-315 and ZIP-317 support.
+
+#### Ourreach, Community Engagement and Support
+- Supported ChainSafe team along with ZCG to develop the javascript framework now known as WebZ.js
+- Advised and reviewed the Architecture of Red-Dev software in their Red-Bridge project which will connect 
+Avalanche and Zcash through an Avalanche Subnet bringing ZEC to DeFi and Privacy to AVAX. 
+- Actively involved in code reviews, tutorials, and user support within the **Zcash community**.
+- Reviewed PRs from teams like **NightHawk Apps**, **Zingo Labs**, and **ECC** to improve code quality and ecosystem synergy.
+- Actively involved in Ecosystem Outreach tasks such as the ZIP-320 Addresses deployment which helped 
+avoid delisting from Binance which was a community concern at the time. 
 
 ### iOS Principal Software Engineer at Electric Coin Company
 Aug 2019 - May 2023 (3 years and 10 months)
