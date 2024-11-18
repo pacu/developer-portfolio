@@ -45,7 +45,7 @@ Aug 2023 - July 2024 (1 year)
 
 In late May 2023, after ECC restructured, I got a call from the Zcash Foundation inviting me to organize
 a workshop at Zcon4 in Barcelona about Zcash Wallets. I realized that my work had trascended my prior 
-employment at ECC and that the cirmcumstances amerited that the Zcash Ecosystem had a liason between all 
+employment at ECC and that the circumstances merited that the Zcash Ecosystem had a liason between all 
 wallet teams that represented the community and not a specific team. That's how the Zcash Wallet Community Developer grant took shape. For a detailed and context-rich version of this please refer to [My journey as a Zcash Dev](../zcash-dev-journey.md)
 
 
