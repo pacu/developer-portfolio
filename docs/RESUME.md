@@ -4,14 +4,14 @@ Francisco Gindre
 
 **contact:** pacu {at} thecodebuffet {dot} dev
 
-Note: *if you are reading this on PDF, you can find the [updated version here](https://github.com/pacu/developer-portfolio/)*
+Note: *if you are reading this on PDF, you can find the [updated version here](https://github.com/pacu/developer-portfolio/)*.
 
 ## Summary
 
 I have a Master’s Degree in Software Engineering. In my more than ten years of experience in iOS development, I've worked in many projects in diverse fields and sectors: NGOs, education, mass-media, publishing, entertainment, travel and FinTechs.
 
-The last 5 years I've been developing open source crypto-wallets and tooling in the Zcash ecosystem.
-If you are Zcasher, I’m pretty sure that most of you might have interacted with the code I worked on.
+The last 5 years I've been developing and contributing to open source crypto-wallets and tooling in the Zcash ecosystem.
+If you are Zcasher, I’m pretty sure that you might have interacted with the code I work on.
 
 I specialized in iOS development, but I've gained a lot of experience in other areas such as Blockchain, Research, Rust development, Open Source project maintenance and ecosystem outreach. 
 
@@ -29,7 +29,10 @@ As time went by the role as Zcash Wallet Community Developer (ZWCD) shifted to a
 was not really planned that way, it happened as the ecosystem needed it. A work philosophy of mine is to
 help were its needed and not only limiting to what one is supposed to by definition of the job description.
 
-#### Key achievements
+
+**Key achievements**
+
+
 - [ZecDev](https://www.github.com/zecdev): A GitHub organization to develop Zcash tooling in community.
 - Outreach to entities running ZEC infrastructure that depends on Zcashd
 - Architecture review and advisory for Zaino project of Zingo labs
@@ -42,22 +45,37 @@ Aug 2023 - July 2024 (1 year)
 
 In late May 2023, after ECC restructured, I got a call from the Zcash Foundation inviting me to organize
 a workshop at Zcon4 in Barcelona about Zcash Wallets. I realized that my work had trascended my prior 
-employment at ECC and that the cirmcumstances amerited that the Zcash Ecosystem had a liason between all 
-wallet teams that represented the community and not a specific team. That's how the Zcash Wallet Community Developer grant took shape. For a detailed and context-rich version of this please refer to [My journey as a Zcash Dev](zcash-dev-journey.md)
-#### Key Achievements as Zcash Wallet Community Developer (ZWCD)
-##### User-Facing Development
+employment at ECC and that the circumstances merited that the Zcash Ecosystem had a liason between all 
+wallet teams that represented the community and not a specific team. That's how the Zcash Wallet Community Developer grant took shape. For a detailed and context-rich version of this please refer to [My journey as a Zcash Dev](../zcash-dev-journey.md)
+
+
+### Key Achievements as Zcash Wallet Community Developer (ZWCD)
+
+
+<u>User-Facing Development</u>
+
+
 - Developed **ZIP-321 support** libraries for **iOS** ([Swift](https://github.com/pacu/zcash-swift-payment-uri)) and **Android** ([Kotlin](https://github.com/pacu/zcash-kotlin-payment-uri)), enhancing payment request functionality.
 - Collaborated to improve the ZIP-321 specification ([discussion link](https://github.com/zcash/zips/issues/451)).
 
-##### Developer Tooling
+
+<u>Developer Tooling</u>
+
+
 - Built a **FROST UniFFI SDK** for **Swift, GoLang**, and other languages ([repo](https://github.com/pacu/frost-uniffi-sdk)).
 - Created **darksidewalletd datasets** for testing, working with **Zingo Labs** ([datasets repo](https://github.com/zingolabs/darksidewalletd-datasets)).
 - Contributed to enabling **regtest support** and custom checkpoints for SDKs ([example PR](https://github.com/Electric-Coin-Company/zcash-swift-wallet-sdk/pull/1331)).
 
-#### Light Client Working Group
+
+Light Client Working Group
+
+
 - Co-organized and rejuvenated **LCWG** meetings, focusing on work initiatives such as ZIP-315 and ZIP-317 support.
 
-#### Ourreach, Community Engagement and Support
+
+Ourreach, Community Engagement and Support
+
+
 - Supported ChainSafe team along with ZCG to develop the javascript framework now known as WebZ.js
 - Advised and reviewed the Architecture of Red-Dev software in their Red-Bridge project which will connect 
 Avalanche and Zcash through an Avalanche Subnet bringing ZEC to DeFi and Privacy to AVAX. 

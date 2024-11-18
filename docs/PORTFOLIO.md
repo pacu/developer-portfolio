@@ -1,4 +1,4 @@
-# My Open Source development Porfolio
+# Pacu's Open Source development Porfolio
 
 In the sections belowyou will find the applications, SDKs and tools I've been involved with.
 
@@ -32,6 +32,24 @@ This a reference wallet for the following set of features:
 - autoshielding on threshold from receive only t-address
 
 # SDKs and other tools
+
+## ZIP-321 Payment URI implementation for Kotlin and Swift
+As part of my Zcash Wallet Community developer I built these two libraries that provide the implementation of a parser for ZIP-321 Payment URIs for native Android and Apple applications
+
+### Zcash Swift Payment URI for Swift
+[zcash-swift-payment-uri
+](https://github.com/zecdev/zcash-swift-payment-uri) is a Swift Package that implements a parser and provides an
+API to construct and generate ZIP-321 URIs. It is distributed through tags on the GitHub repo. Also provides the
+basic CI automation to test and deploy safely using GitHub Actions.
+
+### Zcash Swift Payment URI for Kotlin
+The Android library [zcash-kotlin-payment-uri
+](https://github.com/zecdev/zcash-kotlin-payment-uri) provides the same capabilities as the Swift counterpart. It
+is distributed through MavenCentral. That process is automated with GitHub Actions providing a fast deployment
+cycle.
+
+## FROST UniFFI SDK
+The [frost-uniffi-sdk](https://github.com/zecdev/frost-uniffi-sdk) is a Proof-of-Concept of a FROST SDK using Uniffi. FROST is a thresold signature scheme created by Zcash Foundation. This Software Development Kit wraps the RustLang implementation of FROST using Mozilla UniFFI.
 
 ## ZcashLightClientKit
 I built the [iOS Zcash SDK](https://github.com/zcash/ZcashLightClientKit/) and the first [ECC reference wallet using SwiftUI](https://github.com/zcash/zcash-ios-wallet) most publicly known as NightHawk Wallet since that Team forked the repo and shipped it to the App Store. But I didn’t do this all by myself. I had my ECC colleagues who helped me all the way. It is necessary to understand a lot of how Zcash works to effectively develop a mobile SDK that can be a “drop-in” kind of tool for developers around the world. This led me to have a good understanding of the Zcash light-client protocol, and “the protocol” itself. I worked back to back with my Android counterpart, since I started the SDK as a “port” from the Android PoC which also let me actively contribute every now and then to that codebase as well. Later on I would have to onboard other great developers to our codebase. So I did end up learning a lot of Kotlin along the way. 
@@ -118,6 +136,16 @@ No sorting
 | [SwiftUI — Make Content Scrollable when DynamicFont scales up](https://medium.com/me/stats/post/8248d2e47ed7?source=main_stats_page)   | 78    | 68    | 87%        |
 
 # Seminars and Talks
+
+## Zcon4: Wallet workshop
+We did this panel with Adi from NightHawk Apps. Well it was a workshop that was not going to be recorded but
+organizers liked it so much that they decided to re-run it and [record it](https://www.youtube.com/watch?v=mGV_d5IqDvk). 
+
+## ZconV: Zcash Wallet Landscape
+
+I was appointed to organize a panel that could depict the landscape of the Zcash wallet ecosystem. I was able to
+get the leaders of the main Zcash shielded wallet together in a panel that was very interesting with contrapoints
+and the tacit agreement of their commitment to privacy and Zcash. It was awarded with the most watched award by the conference's organization platform. [Link](https://www.youtube.com/watch?v=Mi4OPfWLd2k)
 
 ## Hello decentralization Conference:
 In February 2021 I participated in a workshop session at “Hello Decentralization” where I did a “code along” session where attendees could build a Point of Sale proof of concept app with ZcashLightClientKit and Swift UI. The session was called “We accept Zcash! building a PoS App with Zcash Viewing keys”. The site of the conference unfortunately is down. I could find this [link](https://www.crowdcast.io/e/hello-decentralization/register?navlinks=false&embed=true) and the repository with the code-along material can be found [here](https://github.com/zcash-hackworks/we-accept-zcash-ios). 
