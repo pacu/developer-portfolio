@@ -28,4 +28,4 @@ All of these experiences had one link between them. I've always worked within th
 
 As for personal interests, I like surfing, cooking, making music and playing with my cats and dogs. 
 
-I speak Spanish, English and Italian. 
+I speak Spanish, English and a very rusty Italian. 

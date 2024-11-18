@@ -15,8 +15,10 @@ If you are Zcasher, I’m pretty sure that most of you might have interacted wit
 
 I specialized in iOS development, but I've gained a lot of experience in other areas such as Blockchain, Research, Rust development, Open Source project maintenance and ecosystem outreach. 
 
-As for my work ethos, I have my true passions and nit-picks as anyone does, but I'm a versatile developer as well. It has been pointed out to me that I'm good at getting to a new software codebase and making a meaningful contribution in fairly short amount of time while still adapting to the projects' conventions and styles. It's important to me to feel the vibe of teams and try to resonate with them instead of trying to just impose your views. Every bit of source code has its context and time. A good contributor knows to understand what's been done, have respect for others' work, be gentle and ask the questions that help understanding such context and time and build on top of that. Furthermore, also try to leave every file you worked on in a better shape that how one has found it.
 
+## Work Ethos
+I have my true passions and nit-picks as anyone does but I'm a versatile developer as well. It has been pointed out to me that I'm good at getting to a new software codebase and making a meaningful contribution in fairly short amount of time while still adapting to the projects' conventions and styles. It's important to me to feel the vibe of teams and try to resonate with them instead of trying to just impose ones views. Every bit of source code has its context and time. A good contributor should look forward to understand what's been done, have respect for others' work, be gentle and ask the questions that help understanding such "context and time" and build on top of that. Furthermore, open source projects are built one commit at a time so, as a good contributor, one should try to leave every file one worked on in a better shape that how it was found
+by following and respecting maintainers' coding conventions.
 
 ## Experience
 
