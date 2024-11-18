@@ -3,8 +3,8 @@
 **contact:** codebuffet+resume {at} proton {dot} me
 
 **tl;dr links**
-- If you are looking for a structured Resumè [please find it here](./RESUME.md)
-- You can skip the introduction and jump straight ahead to my [developer portfolio](./PORTFOLIO.md)
+- If you are looking for a structured Resumè [please find it here](docs/RESUME.md)
+- You can skip the introduction and jump straight ahead to my [developer portfolio](docs/PORTFOLIO.md)
 
 Note: *if you are reading this on PDF, you can find the [updated version here](https://github.com/pacu/developer-portfolio/)*
 
